@@ -7,9 +7,9 @@ include: true
 # tags: about
 # headshot: /images/headshot.jpg
 ---
-
+<!-- 
 ### Projects I am working on 
-WIP
+WIP -->
 
 ### Some of the projects I have done
 
