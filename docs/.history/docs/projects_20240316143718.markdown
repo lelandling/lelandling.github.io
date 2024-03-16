@@ -1,0 +1,15 @@
+---
+layout: project_layout
+permalink: /projects/
+title: Projects
+# subtitle
+tags: about
+# headshot: /images/headshot.jpg
+---
+
+### Projects I am working on 
+WIP
+
+### Some of the projects I have done
+
+Built a differentially private LSTM while I was taking BU Professor [**Adam Smith's**](https://www.bu.edu/cs/profiles/adam-smith/) course 

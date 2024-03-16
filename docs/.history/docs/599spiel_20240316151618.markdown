@@ -1,0 +1,11 @@
+---
+layout: project_layout
+permalink: /about/cs599
+title: 599 Project
+# tags: projects
+# headshot: /images/headshot.jpg
+---
+
+### CS599 project
+
+First of all, as the course was geared towards PhD students, I found myself like a fish out of water, where it took a couple weeks to simply understand the math that was being taught and used in class. I needed a lot of help either through talking with peers (THANK YOU SO MUCH EPHRAIM, DEBANUJ, AND A COUPLE OTHERS FOR BEING PATIENT WITH ME) and attending office hours regularly. Working on the project by itself originally felt like a pretty straight forward approach, where I'd just build differentially private SGD and then just train a model from scratch using a premade corpus. I found that deciding and creating the architecture was much harder than I had originally envisioned (where most of my work was previously was finetuning pretrained models), training took way too long on my own PC (running on a RTX3070), had to learn how to use the BU research cluster and train there. But this was only the beginning. Training the model differentially privately itself was relatively straightforward after, but analyzing performance was not so clear cut. The methods for analysis from the papers I had based this project off of [**The Secret Sharer**](https://arxiv.org/abs/1802.08232) and [**Learning Differentially Private Recurrent Language Models**](https://arxiv.org/abs/1710.06963) ended up being used, but not really showing what I wanted to show. Overall, the project was complete, but I wasn't really happy with it considering a variety of factors. Even so, it probably was the most fun I've had in college, working so single mindedly on a single project where everything else seemed non important.

@@ -1,0 +1,18 @@
+---
+layout: project_layout
+permalink: /projects/
+title: Projects
+include: true
+# subtitle
+# tags: about
+# headshot: /images/headshot.jpg
+---
+
+### Projects I am working on 
+WIP
+
+### Some of the projects I have done
+
+Built a differentially private LSTM while I was taking BU Professor [**Adam Smith**](https://www.bu.edu/cs/profiles/adam-smith/)'s course CS 599 S1 Privacy in Statistics and Machine Learning aiming to analyze the effects of utilizing differentially private training method. The final project report can be found [**here**](https://github.com/lelandling/dp-memorization-project/blob/main/memorizationpaper.pdf). In retrospect, I felt like I had a lot of shortcomings when I began this project but am really proud of completing it. If you want to read more about my experience, click [**here**](/about/cs599).
+
+

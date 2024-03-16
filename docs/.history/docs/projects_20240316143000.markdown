@@ -1,0 +1,13 @@
+---
+layout: project_layout
+permalink: /projects/
+title: Projects
+# subtitle
+tags: about
+# headshot: /images/headshot.jpg
+---
+
+### Projects I am working on 
+WIP
+
+### Some of the projects I have done

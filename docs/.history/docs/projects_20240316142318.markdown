@@ -1,0 +1,9 @@
+---
+layout: about
+permalink: /projects/
+title: Projects
+tags: about
+# headshot: /images/headshot.jpg
+---
+
+### Some of the projects I have done

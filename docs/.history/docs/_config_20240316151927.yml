@@ -32,6 +32,22 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - Home: /
+  - About: /about
+  - Blog: /projects
+
+toc:
+  - title: Group 1
+    subfolderitems:
+      - page: Thing 1
+        url: /thing1.html
+  - title: Group 2
+    subfolderitems:
+      - page: Piece 1
+        url: /piece1.html
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

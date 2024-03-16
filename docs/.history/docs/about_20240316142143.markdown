@@ -1,13 +1,13 @@
 ---
-layout: general_layout
+layout: about
 permalink: /about/
-title: About
-subtitle: About me
+title: About me
 tags: about
-include: true
 # headshot: /images/headshot.jpg
 ---
+
 ### Where I am from
+
 I grew up in Palo Alto, California surrounded by technology. My dad would frequently talk to me his research in computational biology and imparted a strong interest in the natural sciences in me. I also joined our high school's FRC team, where it was really fun playing with the many power tools and contributing to our team's seasonal projects. These experiences led me to enroll in Boston University as a biomedical engineering major while pursuing premed as well. In sophomore year, I switched into computer science as I found that I enjoyed programming more than the other engineering subjects.
 
 ### What I am interested in
@@ -16,4 +16,4 @@ In my junior year of college, I worked on most of the data extraction for usage 
 
 ### What I am doing now
 
-Currently, I am working on a couple projects and applying for full time jobs while waiting for my Masters applications results to come out. Hopefully, I get into a Masters program to continue learning about machine learning, but even if I don't, I will continue learning on my own while working full time in software engineering (once I get a job!).
+Currently, I am working on a couple projects and applying for full time jobs while waiting for my Masters applications results to come out. Hopefully, I get into a Masters program to continue learning about machine learning, but even if I don't I can continue learning on my own while working full time in software engineering (once I get a job!).

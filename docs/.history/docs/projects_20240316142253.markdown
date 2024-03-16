@@ -1,0 +1,7 @@
+---
+layout: projects
+permalink: /projects/
+title: projects
+tags: about
+# headshot: /images/headshot.jpg
+---
