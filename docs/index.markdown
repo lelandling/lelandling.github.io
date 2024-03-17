@@ -10,4 +10,4 @@ include_posts: false
 
 I am a recent graduate from Boston University with a degree in Computer Science. Primary interest is in the power of data and what it can do through machine learning.
 
- Currently open for any sort of software engineering work. Experience in programming is primarily in Java, Javascript, Python, and OCaml, but have worked with React, Node, Jekyll, Ruby, and more. 
+Currently open for any sort of software engineering work. Experience in programming is primarily in Java, Javascript, Python, and OCaml, but have worked with React, Node, Jekyll, Ruby, and more. 

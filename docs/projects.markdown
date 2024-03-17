@@ -17,9 +17,9 @@ Built a differentially private LSTM while I was taking BU Professor [**Adam Smit
 
 Built a AI generated image classifier for a [**bitgrit competition**](https://bitgrit.net/competition/18) placed 4th/473 participants with a partner and 27th alone. Techniques used to achieve this score include searching the model space for an optimal model (trying various linear classifiers, deep learning, and other techniques), data augmentation, searching the parameter space to optimize the ideal model. Source code for this classifier can be found [**here**](https://github.com/lelandling/bitgritcompetition). 
 
-Built a forecaster for an autocast competition. Competition involved question answering multiple choice, numerical, and true false qustions. To do this, I finetuned three separate DistilBert models for each question type using the training sets provided to us. There was additional resources available for training, but file size was too large for our machine to process. Source code can be found [**here**](https://github.com/lelandling/autocastcomp). 
+Built a forecaster for an autocast competition. Competition involved question answering multiple choice, numerical, and true false qustions. To do this, I finetuned three separate DistilBert models for each question type using the training sets provided to us. There was additional resources available for training, but file size was too large for our machine to process. Source code can be found [**here**](https://github.com/lelandling/autocastcomp).
 
+Built the data extraction portion of a neuroblastoma classifier with Stanford University's Professor Hiroyuki Shimada. Received whole CT slides and had to convert them into a readable python format and extract regions of interest. Extracted content was then put through a feature extraction pipeline and traditional machine learning techniques were applied to test aptitude for machine learning solutions. Code can be found [**here**](https://github.com/lelandling/virtualshimada) Currently continuing to work on the project through a CNN focused approach.
 
-
-
+Acted as project manager for a BU SPARK project focused on quantifying the community outreach group La Colaborativa's effect on COVID19 vaccine equity in the greater Boston area. I was the primary route of communication between Boston Children's Hospital's Dr. Julia Koehler. With my direction, our team combed through large amounts public health data, captured similarities between marginalized groups via statistical tests, and visualized trends for Dr. Koehler's use. 
 
